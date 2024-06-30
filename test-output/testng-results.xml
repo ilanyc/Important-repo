@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-29T17:35:38 EDT" name="Suite" finished-at="2024-06-29T17:35:47 EDT" duration-ms="8604">
+    <groups>
+    </groups>
+    <test started-at="2024-06-29T17:35:38 EDT" name="Test" finished-at="2024-06-29T17:35:47 EDT" duration-ms="8604">
+      <class name="faceBookTest.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:faceBookTest.LoginTest@20d28811]" started-at="2024-06-29T17:35:38 EDT" name="setUp" finished-at="2024-06-29T17:35:45 EDT" duration-ms="7084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyApplicationUrl()[pri:1, instance:faceBookTest.LoginTest@20d28811]" started-at="2024-06-29T17:35:45 EDT" name="VerifyApplicationUrl" finished-at="2024-06-29T17:35:46 EDT" duration-ms="313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyApplicationUrl -->
+        <test-method signature="VerifyApplicationLogin()[pri:3, instance:faceBookTest.LoginTest@20d28811]" started-at="2024-06-29T17:35:46 EDT" name="VerifyApplicationLogin" finished-at="2024-06-29T17:35:47 EDT" duration-ms="863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyApplicationLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:faceBookTest.LoginTest@20d28811]" started-at="2024-06-29T17:35:47 EDT" name="tearDown" finished-at="2024-06-29T17:35:47 EDT" duration-ms="285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- faceBookTest.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
